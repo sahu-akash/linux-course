@@ -1,8 +1,11 @@
 # Review Summary: Advancing Cybersecurity – A Comprehensive Review of AI-Driven Cybersecurity Techniques (Salem et al., 2024)
+
+
+
 ## Key Areas Being Researched
 
 #### Machine Learning (ML) for Cyber Defense:
-Studies explore supervised, unsupervised, and ensemble learning approaches to detect intrusions and anomalies in network traffic.
+Traditional methods have failed to prevention of cyber crime and increased the need for human interventions, the studies explore  different ML techniques like supervised, unsupervised, and ensemble learning approaches to detect intrusions and anomalies in network traffic.
 
 #### Deep Learning (DL) Techniques:
 Neural networks such as CNNs and RNNs are applied to large and complex datasets to uncover subtle or evolving attack patterns.
