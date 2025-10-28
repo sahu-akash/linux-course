@@ -5,7 +5,7 @@
 ## Key Areas Being Researched
 
 #### Machine Learning (ML) for Cyber Defense:
-Traditional methods have failed to prevention of cyber crime and increased the need for human interventions, the studies explore  different ML techniques like supervised, unsupervised, and ensemble learning approaches to detect intrusions and anomalies in network traffic.
+Traditional methods have failed in prevention of cyber crime and increased the need for human interventions, the studies explore  different ML techniques like supervised, unsupervised, and ensemble learning approaches to detect intrusions and anomalies in network traffic.
 
 #### Deep Learning (DL) Techniques:
 Neural networks such as CNNs and RNNs are applied to large and complex datasets to uncover subtle or evolving attack patterns.
