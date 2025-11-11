@@ -1,3 +1,5 @@
+# x) Read/watch/listen and summarize
+
 
 1. Karvinen (2020): Command Line Basics Revisited
 
@@ -27,3 +29,16 @@ Key takeaways:
 Good to know:
   a. GPU acceleration gives major speed boosts (use native host OS with NVIDIA/CUDA drivers).
   b. Hashcat automatically detects GPUs — avoid running in VMs for better performance.
+
+
+# b) Install Linux:
+
+As I am using MAC so I will installing UTM and configuring dabian 11 with that.
+The steps were quite easy 
+1. install UTM on MAC from https://mac.getutm.app/
+2. configure the space that you would like to allocate to the VM.
+3. Download the OS you want to run on the UTM from this link https://mac.getutm.app/gallery/
+4. once Downloaded , unzip the package and mount the .utm file.
+<img width="901" height="651" alt="Screenshot 2025-11-11 at 17 43 54" src="https://github.com/user-attachments/assets/aa41051f-2680-461e-8410-fdeb3cec8ae9" />
+
+
