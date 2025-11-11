@@ -42,3 +42,11 @@ The steps were quite easy
 <img width="901" height="651" alt="Screenshot 2025-11-11 at 17 43 54" src="https://github.com/user-attachments/assets/aa41051f-2680-461e-8410-fdeb3cec8ae9" />
 
 
+
+# C) Crack password with hashing technique 
+followed the samwe instruction as in the first task 
+
+/home/debian/Pictures/Screenshots/Screenshot from 2025-11-11 07-02-58.png
+
+
+
