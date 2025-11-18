@@ -21,7 +21,7 @@
 
 ---
 
-## b) Adding Krebs on Security Feed
+#### b) Adding Krebs on Security Feed
 Feed added:
 
 - **Krebs on Security RSS:** https://krebsonsecurity.com/feed/
@@ -32,7 +32,7 @@ Feed added:
 
 ---
 
-## c) Adding Schneier on Security Feed
+#### c) Adding Schneier on Security Feed
 Feed found and added:
 - **Schneier on Security Atom:** https://www.schneier.com/blog/atom.xml
 - 
@@ -42,6 +42,39 @@ Feed found and added:
 
 ---
 
-## d) Adding Two Additional Security-Related Feeds
+#### d) Adding Two Additional Security-Related Feeds
 
-### 1. Threat
+- Add 2 new RSS
+- 1. Troy Hunt RSS: https://www.troyhunt.com/rss/
+     - reasons to choose Troy: Troy Hunt is a globally respected security researcher. Writes deep-dive articles on breaches, password security, and cyber hygiene
+
+  2. Securelist RSS: https://securelist.com/feed/
+     - reason to choose SecureList: Its managed by Kaspersky’s GReAT team. It includes information about malware, APTs, botnets, 0-days, campaigns and threat intelligence.
+- 
+- <img width="885" height="730" alt="Screenshot from 2025-11-18 04-34-59" src="https://github.com/user-attachments/assets/02132752-dd00-452d-b11e-532986d7b807" />
+
+- <img width="1667" height="730" alt="Screenshot from 2025-11-18 04-36-20" src="https://github.com/user-attachments/assets/4d1b5df5-c501-4aed-8091-c3fcce3ce12c" />
+
+#### e) Follow the security feeds for a while
+What I learned
+
+- Several new vulnerabilities appear daily (e.g., CVEs, ransomware variants).
+- Many attacks begin with phishing or misconfigurations.
+- Patch releases often happen quietly, announced only through RSS feeds.
+
+Benefits of using a feed reader
+
+- Centralized view of many security sources → saves time
+- No ads, trackers, or social media distractions
+- Easy to follow many sites at once
+
+Downsides
+- Articles may appear too frequently → information overload
+- complex setup
+- Too much to read because of Quick updates on certain interest topics
+
+#### e) Port scan
+1. Installing Nmap
+   - 
+   
+
