@@ -23,15 +23,22 @@
 
 ## b) Adding Krebs on Security Feed
 Feed added:
+
 - **Krebs on Security RSS:** https://krebsonsecurity.com/feed/
+- 
+<img width="862" height="611" alt="Screenshot from 2025-11-18 03-58-15" src="https://github.com/user-attachments/assets/e79d76d9-cd89-4318-a6e5-1123a5bfeb8c" />
+
+<img width="885" height="612" alt="Screenshot from 2025-11-18 03-58-58" src="https://github.com/user-attachments/assets/8a79f93c-86a4-421e-a3c7-a853a28b80fd" />
 
 ---
 
 ## c) Adding Schneier on Security Feed
 Feed found and added:
 - **Schneier on Security Atom:** https://www.schneier.com/blog/atom.xml
+- 
+<img width="885" height="730" alt="Screenshot from 2025-11-18 04-22-42" src="https://github.com/user-attachments/assets/322b47b5-1c73-4aa1-bcc8-29111a9e1b53" />
 
-I located the feed by searching for “RSS” on the site and checking the HTML source for `<link rel="alternate">` entries.
+- Found many RSS feeds on reddit: https://www.reddit.com/r/cybersecurity/comments/1fbeym6/current_updated_rss_feeds/
 
 ---
 
