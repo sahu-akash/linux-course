@@ -5,6 +5,10 @@ I installed **Thunderbird** as my feed reader. It supports RSS/Atom feeds and is
 
 I added a test feed to confirm the reader works correctly and verified that articles load as expected.
 
+
+
+
+
 <img width="860" height="594" alt="Screenshot from 2025-11-18 02-56-47" src="https://github.com/user-attachments/assets/10b17c33-2e39-4e9d-97af-d1b4eafd0122" />
 
 
