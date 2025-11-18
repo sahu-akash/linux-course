@@ -77,25 +77,25 @@ Downsides
 - Installing Nmap
   Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing.
   <img width="713" height="826" alt="Screenshot from 2025-11-18 05-20-11" src="https://github.com/user-attachments/assets/90619185-7681-4f5b-bc11-993261179628" />
+  
 - Port scan your own computer. Use "localhost" as the address.
   installed Nmap for localhost with command sudo nmap -A -v localhost
   <img width="718" height="921" alt="Screenshot from 2025-11-18 05-28-41" src="https://github.com/user-attachments/assets/e1345e8d-f8d5-4afb-9fbb-ca2756f095b4" />
   <img width="718" height="921" alt="Screenshot from 2025-11-18 05-28-53" src="https://github.com/user-attachments/assets/0bd05f1d-db1b-4fc9-aa96-c0d157d758ad" />
-  - Findings: Some local open ports were found
+  Findings: Some local open ports were found
+  
 - Install a daemon apache2 and start apache2
   
   
 - Port scan again
+
   <img width="718" height="901" alt="Screenshot from 2025-11-18 05-45-34" src="https://github.com/user-attachments/assets/2b9fb91a-e2f2-4b84-85b7-cf4aeab82856" />
 
 - Analyze and explain the results
-  Before installing Apache:
-
-Only a few system ports were open (e.g., 22/ssh). Services were minimal.
-
-After installing Apache:
-
-A new open port appeared: 80/tcp (Apache running).
+  - Before installing Apache:
+    Only a few system ports were open (e.g., 22/ssh). Services were minimal.
+  - After installing Apache:
+    A new open port appeared: 80/tcp (Apache running).
 Nmap also detected the server banner and version.
 This demonstrates that installing services automatically exposes ports, and attackers could discover them via scans.
    
